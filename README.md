@@ -13,7 +13,7 @@ To contribute to this repository, please follow the steps outlined below:
 2. **Clone the Forked Repository**
    - Clone your forked repository to your local machine using the command:
      ```bash
-     git clone https://github.com/your-username/digiglobe-solutions-Projects-Lab.git
+     git clone https://github.com/thulasi78/digiglobe-solutions-Projects-Lab.git
      ```
    - Navigate into the cloned repository:
      ```bash
@@ -23,7 +23,7 @@ To contribute to this repository, please follow the steps outlined below:
 3. **Create a New Branch**
    - Create a new branch for your work:
      ```bash
-     git checkout -b your-full-name-category
+     git checkout -b thulasi78-web devolopment
      ```
    - Replace your-full-name-category with your full name and the category you are working on, separated by a hyphen. For example, john-doe-hero-section.
 
